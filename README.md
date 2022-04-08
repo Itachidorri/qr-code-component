@@ -67,7 +67,7 @@ Implementing new CSS properties:
 Here, the 'position' property along with it's sub-properties 'top' & 'bottom' changes the position of <div>'container' to start from the center of window.
   Check [screenshot](img/before-transform.png)
 
-Then, 'transform' shifts 'container' exactly to the center of the window.
+However, 'transform: translate(-50%, -50%)' shifts center of the'container' exactly to the center of the window.
   Check [screenshot](img/after-transform.png)
 
 
