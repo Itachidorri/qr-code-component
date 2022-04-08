@@ -41,7 +41,7 @@ This goal of this project is to develop a simple site having a 'qr-code' compone
 
 - Semantic HTML5 markup
 - CSS custom properties
-- [Fonts](https://fonts.google.com/specimen/Outfit) - For fonts
+- [Google Fonts](https://fonts.google.com/specimen/Outfit) - For fonts
 
 
 ### What I learned
