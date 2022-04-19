@@ -28,7 +28,7 @@ This goal of this project is to develop a simple site having a 'qr-code' compone
 
 ### Links
 
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Live Site URL: [Live site URL](https://itachidorri.github.io/qr-code-component/)
 
 ## My process
 1. Building the html structure for the project.
