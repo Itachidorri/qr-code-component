@@ -90,4 +90,4 @@ To gain proper understanding of 'position' and 'transform' properties.
 
 ## Acknowledgments
 
-I am grateful to the developers of 'front-end mentor' to make projects available for a newbie learner. Also, I want to thank 'w3 schools' for providing such helpful resources to make further progress as a web developer.
+I am grateful to the developers of 'front-end mentor' to make projects available for a newbie learner. Also, I want to thank 'w3 schools' for providing such helpful resources to make further progress as a web developer. Hare Krishna!
